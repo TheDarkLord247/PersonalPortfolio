@@ -3,8 +3,9 @@
     left: 0;
     width: 100%;
     position: fixed;
-    background: #361c68;
+    background: #010211;
     height: 56px;
+    padding: 0;
 }
 
 .navbar{
@@ -43,13 +44,15 @@
 }
 
 .navList a{
-    color: white;
+    font-size: 1.2rem;
+    color: #dab78f;
     text-decoration: none;
 
 }
 
 .navList a:hover{
-    color: orange;
+    color: black;
+    background-color: #dab78f;
 }
 
 .navList a:active{
