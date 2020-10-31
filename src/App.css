@@ -73,6 +73,7 @@ body {
 }
 
 .black{
-  position: relative;
+  position: absolute;
+  top: 1000px;
   background-color: black;
 }
