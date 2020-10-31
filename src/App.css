@@ -7,6 +7,7 @@ main{
 }
 
 .card {
+
   display: flex;
   flex-direction: column;
   background-color: white;
@@ -73,6 +74,7 @@ body {
 }
 
 .black{
-  position: relative;
+  position: absolute;
+  top: 1000px;
   background-color: black;
 }
