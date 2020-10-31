@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar.js';
 import SideDrawer from './components/SideDrawer/SideDrawer.js';
 import Backdrop from './components/Backdrop/Backdrop.js';
 import bg from './img/bg2.png';
+import gh from './img/gh.png';
 
 
 class App extends Component {
@@ -34,6 +35,7 @@ class App extends Component {
         <SideDrawer show={this.state.sideDrawerOpen}/>
         {backdrop}
         <main>
+          <a id="aboutmelink"></a>
           <div className="aboutme">
             <img id="bg" src={bg} alt="Photograph of the night sky over an isolated, illuminated fort in Udaipur, India."></img>
             <div className="centered">
@@ -43,12 +45,17 @@ class App extends Component {
               </p>
             </div>
           </div>
-          <div className="black">
-            <div className="card">
-              <h1>Yoda</h1>
-            </div>
-          </div>
         </main>
+        <a id="links"></a>
+        <div className="black">
+          <div className="card">
+            <a href="https://github.com/TheDarkLord247" target="_blank">
+            <img id="logo" src={gh} alt="GitHub logo containg a link to my GitHub profile"></img>
+            </a>
+          </div>
+          
+        </div>
+          
       </div>
     );
   };
