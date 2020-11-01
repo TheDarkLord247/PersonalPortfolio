@@ -9,6 +9,19 @@ main{
   height: 100%;
 }
 
+#aboutmelink{
+  text-indent: 100%;
+white-space: nowrap;
+overflow: hidden;
+}
+
+#links
+{
+  text-indent: 100%;
+white-space: nowrap;
+overflow: hidden;
+}
+
 .centered{
   position: absolute;
   top: 40%;
