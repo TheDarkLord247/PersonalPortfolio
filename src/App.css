@@ -9,19 +9,6 @@ main{
   height: 100%;
 }
 
-#aboutmelink{
-  text-indent: 100%;
-white-space: nowrap;
-overflow: hidden;
-}
-
-#links
-{
-  text-indent: 100%;
-white-space: nowrap;
-overflow: hidden;
-}
-
 .centered{
   position: absolute;
   top: 40%;
@@ -43,6 +30,7 @@ overflow: hidden;
     font-size: 20px;
   }
 }
+
 @media screen and (min-width : 1000px)
 {
   .intro
@@ -71,18 +59,24 @@ overflow: hidden;
 
 .card {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   color: pink;
   background-color: #ebceae;
   border-radius: 7px;
-  width: 95%;
+  width: 45%;
   padding: 1em;
   opacity: 0.95;
   box-shadow: 0px 0px 10px 2px rgba(30, 30, 30, 0.2);
-  justify-content: flex-start;
+  justify-content: space-around;
 
 }
 
 #logo{
   height: 175px;
+}
+
+@media screen and (max-width : 900px){
+  #logo{
+    height: 80px;
+  }
 }

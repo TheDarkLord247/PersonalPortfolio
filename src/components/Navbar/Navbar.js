@@ -11,8 +11,8 @@ const navbar = props => (
             <div className="navList">
                 <ul>
                     <li><a href = "#top">About Me</a></li>
-                    <li><a href = "/">Links</a></li>
-                    <li><a href = "/">Contact</a></li>
+                    <li><a href = "#links">Links</a></li>
+                    <li><a href = "#contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
