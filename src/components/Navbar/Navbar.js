@@ -12,7 +12,7 @@ const navbar = props => (
                 <ul>
                     <li><a href = "/#aboutmelink">About Me</a></li>
                     <li><a href = "/#links">Links</a></li>
-                    <li><a href = "/">Contact</a></li>
+                    <li><a href = "/#links">Contact</a></li>
                 </ul>
             </div>
         </nav>
