@@ -4,6 +4,8 @@ import Navbar from './components/Navbar/Navbar.js';
 import SideDrawer from './components/SideDrawer/SideDrawer.js';
 import Backdrop from './components/Backdrop/Backdrop.js';
 import bg from './img/bg2.png';
+import gh from './img/gh.png';
+import li from './img/li.png';
 
 
 class App extends Component {
@@ -38,17 +40,29 @@ class App extends Component {
             <img id="bg" src={bg} alt="Photograph of the night sky over an isolated, illuminated fort in Udaipur, India."></img>
             <div className="centered">
               <p className="intro">
-                My name is Aman Oberoi and I am a sophomore studying math and computer science at UCLA. 
+                My name is Aman Oberoi and I am a sophomore studying computer science and math at UCLA. 
                 My interests include algorithms, machine learning, software engineering and photography!
               </p>
             </div>
           </div>
-          <div className="black">
-            <div className="card">
-              <h1>Yoda</h1>
-            </div>
-          </div>
         </main>
+        
+        <div id="links" className="black">
+          <div className="card">
+            <a href="https://github.com/TheDarkLord247" target="_blank" rel="noopener noreferrer">
+            <img id="logo" src={gh} alt="GitHub logo containg a link to my GitHub profile"></img>
+            </a>
+            <a href="https://www.linkedin.com/in/amanoberoi2001/" target="_blank" rel="noopener noreferrer">
+            <img id="logo" src={li} alt="LinkedIn logo containg a link to my LinkedIn profile"></img>
+            </a>
+          </div>
+        </div>
+        <div id ="contact" className="black">
+          <p className="intro">
+          You can contact me at <b>amanbir5103@gmail.com</b>
+          </p>
+        </div>
+          
       </div>
     );
   };

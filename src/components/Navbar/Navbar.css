@@ -6,6 +6,8 @@
     background: #010211;
     height: 56px;
     padding: 0;
+    opacity: 1;
+    z-index: 3;
 }
 
 .navbar{
