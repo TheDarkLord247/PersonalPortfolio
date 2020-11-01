@@ -49,7 +49,7 @@ class App extends Component {
         <a id="links"></a>
         <div className="black">
           <div className="card">
-            <a href="https://github.com/TheDarkLord247" target="_blank">
+            <a href="https://github.com/TheDarkLord247" target="_blank" rel="noopener noreferrer">
             <img id="logo" src={gh} alt="GitHub logo containg a link to my GitHub profile"></img>
             </a>
           </div>
