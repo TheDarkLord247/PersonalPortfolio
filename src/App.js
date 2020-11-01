@@ -35,7 +35,7 @@ class App extends Component {
         <SideDrawer show={this.state.sideDrawerOpen}/>
         {backdrop}
         <main>
-          <a id="aboutmelink">Test</a>
+          
           <div className="aboutme">
             <img id="bg" src={bg} alt="Photograph of the night sky over an isolated, illuminated fort in Udaipur, India."></img>
             <div className="centered">
@@ -46,7 +46,7 @@ class App extends Component {
             </div>
           </div>
         </main>
-        <a id="links">test</a>
+        
         <div className="black">
           <div className="card">
             <a href="https://github.com/TheDarkLord247" target="_blank" rel="noopener noreferrer">
