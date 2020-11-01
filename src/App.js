@@ -32,6 +32,11 @@ class App extends Component {
     }
     return (
       <div className="App">
+        <head>
+        <title>
+          Aman Oberoi
+        </title>
+      </head>
         <Navbar drawerHandler = {this.drawerToggleHandler}/>
         <SideDrawer show={this.state.sideDrawerOpen}/>
         {backdrop}
