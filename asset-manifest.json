@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thedarklord247.github.io/static/css/main.67959724.chunk.css",
+    "main.js": "/thedarklord247.github.io/static/js/main.43a4358c.chunk.js",
+    "main.js.map": "/thedarklord247.github.io/static/js/main.43a4358c.chunk.js.map",
+    "runtime-main.js": "/thedarklord247.github.io/static/js/runtime-main.9c381962.js",
+    "runtime-main.js.map": "/thedarklord247.github.io/static/js/runtime-main.9c381962.js.map",
+    "static/js/2.bdcab5b1.chunk.js": "/thedarklord247.github.io/static/js/2.bdcab5b1.chunk.js",
+    "static/js/2.bdcab5b1.chunk.js.map": "/thedarklord247.github.io/static/js/2.bdcab5b1.chunk.js.map",
+    "index.html": "/thedarklord247.github.io/index.html",
+    "static/css/main.67959724.chunk.css.map": "/thedarklord247.github.io/static/css/main.67959724.chunk.css.map",
+    "static/js/2.bdcab5b1.chunk.js.LICENSE.txt": "/thedarklord247.github.io/static/js/2.bdcab5b1.chunk.js.LICENSE.txt",
+    "static/media/bg.875b91b1.png": "/thedarklord247.github.io/static/media/bg.875b91b1.png",
+    "static/media/gh.bdc499b5.png": "/thedarklord247.github.io/static/media/gh.bdc499b5.png",
+    "static/media/li.7b620195.png": "/thedarklord247.github.io/static/media/li.7b620195.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c381962.js",
+    "static/js/2.bdcab5b1.chunk.js",
+    "static/css/main.67959724.chunk.css",
+    "static/js/main.43a4358c.chunk.js"
+  ]
+}
