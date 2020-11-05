@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar.js';
 import SideDrawer from './components/SideDrawer/SideDrawer.js';
 import Backdrop from './components/Backdrop/Backdrop.js';
-import bg from './img/bg2.png';
+import bg from './img/bg.png';
 import gh from './img/gh.png';
 import li from './img/li.png';
 
