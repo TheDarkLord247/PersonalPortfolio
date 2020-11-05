@@ -45,7 +45,7 @@ class App extends Component {
             <img id="bg" src={bg} alt="Photograph of the night sky over an isolated, illuminated fort in Udaipur, India."></img>
             <div className="centered">
               <p className="intro">
-                My name is Aman Oberoi and I am a sophomore studying computer science and math at UCLA. 
+                My name is Aman Oberoi and I am a sophomore studying computer science and applied math at UCLA. 
                 My interests include algorithms, machine learning, software engineering and photography!
               </p>
             </div>
