@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.67959724.chunk.css",
-    "main.js": "/static/js/main.3150639d.chunk.js",
-    "main.js.map": "/static/js/main.3150639d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.291a5225.js",
-    "runtime-main.js.map": "/static/js/runtime-main.291a5225.js.map",
-    "static/js/2.bdcab5b1.chunk.js": "/static/js/2.bdcab5b1.chunk.js",
-    "static/js/2.bdcab5b1.chunk.js.map": "/static/js/2.bdcab5b1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.67959724.chunk.css.map": "/static/css/main.67959724.chunk.css.map",
-    "static/js/2.bdcab5b1.chunk.js.LICENSE.txt": "/static/js/2.bdcab5b1.chunk.js.LICENSE.txt",
-    "static/media/bg.875b91b1.png": "/static/media/bg.875b91b1.png",
-    "static/media/gh.bdc499b5.png": "/static/media/gh.bdc499b5.png",
-    "static/media/li.7b620195.png": "/static/media/li.7b620195.png"
+    "main.css": "/thedarklord247.github.io/static/css/main.67959724.chunk.css",
+    "main.js": "/thedarklord247.github.io/static/js/main.43e12792.chunk.js",
+    "main.js.map": "/thedarklord247.github.io/static/js/main.43e12792.chunk.js.map",
+    "runtime-main.js": "/thedarklord247.github.io/static/js/runtime-main.cf593384.js",
+    "runtime-main.js.map": "/thedarklord247.github.io/static/js/runtime-main.cf593384.js.map",
+    "static/js/2.ba808f26.chunk.js": "/thedarklord247.github.io/static/js/2.ba808f26.chunk.js",
+    "static/js/2.ba808f26.chunk.js.map": "/thedarklord247.github.io/static/js/2.ba808f26.chunk.js.map",
+    "index.html": "/thedarklord247.github.io/index.html",
+    "static/css/main.67959724.chunk.css.map": "/thedarklord247.github.io/static/css/main.67959724.chunk.css.map",
+    "static/js/2.ba808f26.chunk.js.LICENSE.txt": "/thedarklord247.github.io/static/js/2.ba808f26.chunk.js.LICENSE.txt",
+    "static/media/bg.875b91b1.png": "/thedarklord247.github.io/static/media/bg.875b91b1.png",
+    "static/media/gh.bdc499b5.png": "/thedarklord247.github.io/static/media/gh.bdc499b5.png",
+    "static/media/li.7b620195.png": "/thedarklord247.github.io/static/media/li.7b620195.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.291a5225.js",
-    "static/js/2.bdcab5b1.chunk.js",
+    "static/js/runtime-main.cf593384.js",
+    "static/js/2.ba808f26.chunk.js",
     "static/css/main.67959724.chunk.css",
-    "static/js/main.3150639d.chunk.js"
+    "static/js/main.43e12792.chunk.js"
   ]
 }
